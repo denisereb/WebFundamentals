@@ -14,7 +14,7 @@ for(var i = 0; i< movies.length; i++){
 	console.log(movies[i]);
 }
 
-var favrestaurants=["Bucca di Beppo","Journey's","El Maguey","Any Pizza Place"];
+var favrestaurants=["Bucca di Beppo","stacked pickle","El Maguey","Any Pizza Place"];
 for(var i=0;i <favrestaurants.length; i++){
 	console.log(favrestaurants[i]);
 }
