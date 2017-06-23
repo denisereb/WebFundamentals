@@ -80,12 +80,12 @@ petNameAndBreed("Rolu", "poodle");
 
 // candyfinalprice("Snickers,")
 
-function calcutlatePriceIndiana(quantity, price){
-	var tax - 0.07;
-	var totalTax= quantity * price * tax;
-	console.log(totalTax);
-	var totalPrice= totalTax + quantity * price
-	return totalPrice;
-}
+// function calcutlatePriceIndiana(quantity, price){
+// 	var tax = 0.07;
+// 	var totalTax= quantity * price * tax;
+// 	console.log(totalTax);
+// 	var totalPrice= totalTax + quantity * price
+// 	return totalPrice;
+// }
 
-console.log(chipotle:"")
+// console.log:"totalPrice")
